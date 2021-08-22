@@ -1,8 +1,8 @@
 cell_type,target,source,value
 CD16 NK,5min+,6hr+,96.2
 CD16 NK,5min+,6hr-,3.8
-CD16 NK,5min-,6hr+,0.01
-CD16 NK,5min-,6hr-,0.01
+CD16 NK,5min-,6hr+,0
+CD16 NK,5min-,6hr-,0
 CD16 NK,6hr+,24hr+,88.6
 CD16 NK,6hr+,24hr-,7.6
 CD16 NK,6hr-,24hr+,3.8
@@ -13,8 +13,8 @@ CD16 NK,24hr-,48hr+,6.7
 CD16 NK,24hr-,48hr-,1
 CD16dim NK,5min+,6hr+,89.1
 CD16dim NK,5min+,6hr-,10.9
-CD16dim NK,5min-,6hr+,0.01
-CD16dim NK,5min-,6hr-,0.01
+CD16dim NK,5min-,6hr+,0
+CD16dim NK,5min-,6hr-,0
 CD16dim NK,6hr+,24hr+,85.6
 CD16dim NK,6hr+,24hr-,3.5
 CD16dim NK,6hr-,24hr+,10.9
@@ -25,8 +25,8 @@ CD16dim NK,24hr-,48hr+,2.9
 CD16dim NK,24hr-,48hr-,0.6
 CD56 NK,5min+,6hr+,16.9
 CD56 NK,5min+,6hr-,83.1
-CD56 NK,5min-,6hr+,0.01
-CD56 NK,5min-,6hr-,0.01
+CD56 NK,5min-,6hr+,0
+CD56 NK,5min-,6hr-,0
 CD56 NK,6hr+,24hr+,5.6
 CD56 NK,6hr+,24hr-,11.3
 CD56 NK,6hr-,24hr+,25.4
@@ -37,8 +37,8 @@ CD56 NK,24hr-,48hr+,19.7
 CD56 NK,24hr-,48hr-,49.3
 DN NK,5min+,6hr+,83.4
 DN NK,5min+,6hr-,16.6
-DN NK,5min-,6hr+,0.01
-DN NK,5min-,6hr-,0.01
+DN NK,5min-,6hr+,0
+DN NK,5min-,6hr-,0
 DN NK,6hr+,24hr+,79.2
 DN NK,6hr+,24hr-,4.1
 DN NK,6hr-,24hr+,11.6
