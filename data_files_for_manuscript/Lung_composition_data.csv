@@ -1,0 +1,5 @@
+Animal,Tissue,Cell_Type,IVAS_pos,IVAS_neg,RI,TR
+G45T,Lung,Lymphocyte,33.1,66.9,9.4,90.6
+G45T,Lung,CD16 NK,88.8,11.2,62.2,37.8
+G45T,Lung,CD56 NK,12.1,87.9,3.4,96.6
+G45T,Lung,DN NK,69.2,30.8,0,100

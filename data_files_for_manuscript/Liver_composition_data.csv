@@ -1,0 +1,5 @@
+Animal,Tissue,Cell_Type,IVAS_pos,IVAS_neg
+ZJ31,Liver,Lymphocyte,82.9,17.1
+ZJ31,Liver,CD16 NK,94.6,5.4
+ZJ31,Liver,CD56 NK,84.3,15.7
+ZJ31,Liver,DN NK,92.3,7.7

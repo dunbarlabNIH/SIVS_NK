@@ -1,0 +1,25 @@
+cell_type,target,source,value
+CD16 NK,2hr+,6hr+,59.9
+CD16 NK,2hr-,6hr+,13.2
+CD56 NK,2hr+,6hr+,4.15
+CD56 NK,2hr-,6hr+,16.1
+DN NK,2hr+,6hr+,51.6
+DN NK,2hr-,6hr+,13.6
+CD16 NK,2hr+,6hr-,21.2
+CD16 NK,2hr-,6hr-,5.6
+CD56 NK,2hr+,6hr-,15.2
+CD56 NK,2hr-,6hr-,64.5
+DN NK,2hr+,6hr-,22.7
+DN NK,2hr-,6hr-,12
+CD16 NK,5min+,2hr+,81.1
+CD16 NK,5min-,2hr+,0
+CD56 NK,5min+,2hr+,19.4
+CD56 NK,5min-,2hr+,0
+DN NK,5min+,2hr+,74.4
+DN NK,5min-,2hr+,0
+CD16 NK,5min+,2hr-,18.8
+CD16 NK,5min-,2hr-,0
+CD56 NK,5min+,2hr-,80.2
+CD56 NK,5min-,2hr-,0
+DN NK,5min+,2hr-,25.6
+DN NK,5min-,2hr-,0

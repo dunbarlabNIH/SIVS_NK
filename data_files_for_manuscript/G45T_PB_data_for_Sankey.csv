@@ -1,0 +1,49 @@
+cell_type,target,source,value
+Lymphocyte,5min+,6hr+,30.5
+Lymphocyte,5min+,6hr-,69.4
+Lymphocyte,5min-,6hr+,0
+Lymphocyte,5min-,6hr-,0
+Lymphocyte,6hr+,24hr+,17
+Lymphocyte,6hr+,24hr-,13.5
+Lymphocyte,6hr-,24hr+,15.2
+Lymphocyte,6hr-,24hr-,54.3
+Lymphocyte,24hr+,48hr+,15.6
+Lymphocyte,24hr+,48hr-,16.7
+Lymphocyte,24hr-,48hr+,9.82
+Lymphocyte,24hr-,48hr-,57.9
+CD16 NK,5min+,6hr+,95.1
+CD16 NK,5min+,6hr-,5.07
+CD16 NK,5min-,6hr+,0
+CD16 NK,5min-,6hr-,0
+CD16 NK,6hr+,24hr+,94.8
+CD16 NK,6hr+,24hr-,0.31
+CD16 NK,6hr-,24hr+,4.72
+CD16 NK,6hr-,24hr-,0.35
+CD16 NK,24hr+,48hr+,97.5
+CD16 NK,24hr+,48hr-,1.83
+CD16 NK,24hr-,48hr+,0.27
+CD16 NK,24hr-,48hr-,0.39
+CD56 NK,5min+,6hr+,28.3
+CD56 NK,5min+,6hr-,71.7
+CD56 NK,5min-,6hr+,0
+CD56 NK,5min-,6hr-,0
+CD56 NK,6hr+,24hr+,8.53
+CD56 NK,6hr+,24hr-,19.8
+CD56 NK,6hr-,24hr+,17.1
+CD56 NK,6hr-,24hr-,54.6
+CD56 NK,24hr+,48hr+,9.56
+CD56 NK,24hr+,48hr-,16
+CD56 NK,24hr-,48hr+,11.6
+CD56 NK,24hr-,48hr-,62.8
+DN NK,5min+,6hr+,70.7
+DN NK,5min+,6hr-,29.3
+DN NK,5min-,6hr+,0
+DN NK,5min-,6hr-,0
+DN NK,6hr+,24hr+,64.5
+DN NK,6hr+,24hr-,6.13
+DN NK,6hr-,24hr+,18
+DN NK,6hr-,24hr-,11.4
+DN NK,24hr+,48hr+,71.8
+DN NK,24hr+,48hr-,10.7
+DN NK,24hr-,48hr+,3.65
+DN NK,24hr-,48hr-,13.9

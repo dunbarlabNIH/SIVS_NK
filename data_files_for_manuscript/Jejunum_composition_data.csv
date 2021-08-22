@@ -1,0 +1,5 @@
+Animal,Tissue,Cell_Type,IVAS_pos,IVAS_neg,RI,TR
+G45T,Jejunum,Lymphocyte,1.07,98.93,33.5,66.5
+G45T,Jejunum,CD16 NK,0,100,60.6,39.4
+G45T,Jejunum,CD56 NK,,,,
+G45T,Jejunum,DN NK,0.24,99.76,19,81
